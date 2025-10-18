@@ -87,6 +87,7 @@ The insights derived from customer behavior and outlet performance can help food
 
 ## 🧑‍💻 Author
 **Manjunath Darshan R**
+
 📧 *[rmanjunathdarshan@gmail.com]*  
 💼 *[https://www.linkedin.com/in/manjunathdarshanr/]*  
 _Data Analyst | SQL | Excel | Power BI | Python_
